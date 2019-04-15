@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\work\uni\graphics cw2\tutorial19\opengl\source.cpp(142): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\work\uni\graphics cw2\tutorial19\opengl\source.cpp(145): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\work\uni\graphics cw2\tutorial19\opengl\source.cpp(192): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\work\uni\graphics cw2\tutorial19\opengl\source.cpp(82): warning C4101: 'goldTexture': unreferenced local variable
+d:\work\uni\graphics cw2\tutorial19\opengl\source.cpp(81): warning C4101: 'emeraldTex': unreferenced local variable
+  OpenGL.vcxproj -> D:\WORK\UNI\Graphics CW2\Tutorial19\x64\Debug\OpenGL.exe
